@@ -1,0 +1,16 @@
+{
+    "name": "casino",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "gambler token",
+        "/category/asset_value_tracking/core-token/symbol": "gam",
+        "/category/asset_value_tracking/core-token/supply": "1000000000",
+        "/category/asset_value_tracking/core-token/decimals": "9",
+        "/category/collection/core-entity": true
+    }
+}
